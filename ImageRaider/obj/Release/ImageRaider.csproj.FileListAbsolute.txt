@@ -1,0 +1,16 @@
+D:\ImageRaider\ImageRaider\bin\Release\ImageRaider.dll
+D:\ImageRaider\ImageRaider\bin\Release\ImageRaider.pdb
+D:\ImageRaider\ImageRaider\bin\Release\Newtonsoft.Json.dll
+D:\ImageRaider\ImageRaider\bin\Release\Newtonsoft.Json.xml
+D:\ImageRaider\ImageRaider\obj\Release\ImageRaider.dll
+D:\ImageRaider\ImageRaider\obj\Release\ImageRaider.pdb
+D:\ImageRaider\ImageRaider\obj\Release\ImageRaider.csprojResolveAssemblyReference.cache
+D:\ImageRaider\ImageRaider\bin\Release\ImageRaider.XML
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\bin\Release\ImageRaider.XML
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\bin\Release\ImageRaider.dll
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\bin\Release\ImageRaider.pdb
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\bin\Release\Newtonsoft.Json.dll
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\bin\Release\Newtonsoft.Json.xml
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\obj\Release\ImageRaider.csprojResolveAssemblyReference.cache
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\obj\Release\ImageRaider.dll
+D:\GraphicsDetective\ImageSearchJob\ImageRaider\obj\Release\ImageRaider.pdb

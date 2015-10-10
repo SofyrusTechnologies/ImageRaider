@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageRaider</name>
+    </assembly>
+    <members>
+        <member name="P:ImageRaider.ImageSearch.Expires">
+            <summary>
+            Time as long seconds before request expires
+            </summary>
+        </member>
+        <member name="P:ImageRaider.ImageSearch.UID">
+            <summary>
+            Image raider UID
+            </summary>
+        </member>
+        <member name="P:ImageRaider.ImageSearch.ApiKey">
+            <summary>
+            Image raider API key
+            </summary>
+        </member>
+        <member name="P:ImageRaider.ImageSearch.Images">
+            <summary>
+            Add images to be searched
+            </summary>
+        </member>
+        <member name="M:ImageRaider.ImageSearch.SearchImages">
+            <summary>
+            To be called only once all public properties are filled for this class
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

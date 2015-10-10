@@ -1,0 +1,10 @@
+D:\ImageRaider\ImageRaider.Console\bin\Debug\ImageRaider.Console.exe.config
+D:\ImageRaider\ImageRaider.Console\bin\Debug\ImageRaider.Console.exe
+D:\ImageRaider\ImageRaider.Console\bin\Debug\ImageRaider.Console.pdb
+D:\ImageRaider\ImageRaider.Console\bin\Debug\ImageRaider.dll
+D:\ImageRaider\ImageRaider.Console\bin\Debug\Newtonsoft.Json.dll
+D:\ImageRaider\ImageRaider.Console\bin\Debug\ImageRaider.pdb
+D:\ImageRaider\ImageRaider.Console\bin\Debug\Newtonsoft.Json.xml
+D:\ImageRaider\ImageRaider.Console\obj\Debug\ImageRaider.Console.csprojResolveAssemblyReference.cache
+D:\ImageRaider\ImageRaider.Console\obj\Debug\ImageRaider.Console.exe
+D:\ImageRaider\ImageRaider.Console\obj\Debug\ImageRaider.Console.pdb
