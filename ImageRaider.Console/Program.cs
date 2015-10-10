@@ -12,10 +12,10 @@ namespace ImageRaider.Console
         {
             List<string> imageUrlsToSearch = new List<string>();
             ImageSearch search = new ImageSearch();
-            search.ApiKey = "7cb5d41ac8b4d8fd293672d8731cab6f";
+            search.ApiKey = "GET YOUR KEY FROM INCANDESCENT";
             search.Expires = 1200;
-            search.UID = 6569;
-            imageUrlsToSearch.Add("http://54.69.197.64/images/55b2316cb48f31.jpg");
+            search.UID = 0;//GET YOUR UID FROM INCANDESCENT API
+            imageUrlsToSearch.Add("INSERT YOUR IMAGE URL HERE OR ADD MULTIPLE");
             //imageUrlsToSearch.Add("http://animalia-life.com/data_images/dog/dog1.jpg");
             search.Images = imageUrlsToSearch;
 
