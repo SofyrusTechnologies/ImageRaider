@@ -65,7 +65,7 @@ namespace ImageRaider
                     resultReady = CheckIfResultIsReady(authResult.Project_Id);
                     if (resultReady)
                     {
-                        await Task.Delay(20000); //wait 50 seconds before retrying
+                        await Task.Delay(20000); //wait 20 seconds before retrying
                     }
                 }
                 if (CheckResponse(authResult.Project_Id).StartsWith("{\"status\":755"))
